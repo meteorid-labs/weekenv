@@ -1,0 +1,32 @@
+{
+  "name": "@meteorid-labs/weekenv",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.8.5",
+    "inquirer": "^8.2.2",
+    "mem-fs": "^2.2.1",
+    "mem-fs-editor": "^9.4.0",
+    "yosay": "^2.0.2",
+    "replace-in-file": "^6.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "configure": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteorid-labs/weekenv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meteorid-labs/weekenv/issues"
+  },
+  "homepage": "https://github.com/meteorid-labs/weekenv#readme",
+  "bin": {
+    "configure": "index.js"
+  }
+}
