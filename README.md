@@ -13,7 +13,7 @@ Currently this package still experimental and under development, but you could u
 
 - Support for ios
 
-- Make it as package executor (like npx)
+- Make env template as package executor (like npx.)
 
 
 ## Features
